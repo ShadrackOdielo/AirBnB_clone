@@ -18,7 +18,7 @@ sudo apt-get install python3
 Clone the repository
 
 ```
-git clone https://github.com/shadrackodielo/AirBnB_clone.git;
+git clone https://github.com/ShadrackOdielo/AirBnB_clone.git
 ```
 Then enter the directory
 ```
